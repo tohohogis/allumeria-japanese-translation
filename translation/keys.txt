@@ -20,8 +20,8 @@ item.leaves 葉
 item.grass_tall 背の高い草
 item.workbench 作業台
 item.workbench.desc より複雑なアイテムを作れる
-item.worldBorder World Border
-item.worldBorder.desc If you were able to obtain this you are either cheating or my game is broken ):
+item.worldBorder ワルドボーダー
+item.worldBorder.desc これを入手できた場合は、不正行為をしているか、私のゲームが壊れているかのどちらかです ):
 item.copper_ore 銅鉱石
 item.copper_ore.desc インゴットに製錬することができる
 item.iron_ore 鉄鉱石
@@ -765,4 +765,5 @@ colour.pale_yellow 薄黄色
 colour.mint ミント色
 colour.baby_blue ベビーブルー色
 colour.lavender ラベンダー色
+
 colour.pastel_pink パステルピンク色
