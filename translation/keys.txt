@@ -765,5 +765,5 @@ colour.pale_yellow 薄黄色
 colour.mint ミント色
 colour.baby_blue ベビーブルー色
 colour.lavender ラベンダー色
-
 colour.pastel_pink パステルピンク色
+
